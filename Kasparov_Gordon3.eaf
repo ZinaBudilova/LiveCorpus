@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-28T18:58:26+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Кили/kili.mp4" MIME_TYPE="video/mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///E:/Documents/Кили/kili.mp4" MEDIA_URL="file:///E:/Documents/Кили/kili.wav" MIME_TYPE="audio/x-wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0e9d767e-ed33-46de-8cb7-cb0d12a59250</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">236</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6161"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="11625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15227"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15227"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="21943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="22954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="24090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="25659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="26829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="27829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="28363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="28590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="29068"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="29465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="32784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="33272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="33284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="34284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="34568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="38420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="40318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="44363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="51147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="51375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="51579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="51772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="52784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="52875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="53215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="53363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="54806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="56022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="56363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="58600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="58600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="61760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="61980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="68320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="68560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="68800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="69320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="70200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="70240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="71640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="71640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="74540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="75020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="77660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="78000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="81200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="81300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="82660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="82680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="84640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="85120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="91660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="92480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="97620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="97640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="104116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="104640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="104640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="105207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="105440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="105740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="106415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="106448"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="106511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="107970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="111622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="112028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="113915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="113929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="113943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="114464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="114566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="114627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="114944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="115568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="118679"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="119000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="119146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="119645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="119688"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="119745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="125597"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="125896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="126545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="126896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="132833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="132964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="133833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="133833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="134833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="135333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="139983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="140016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="141800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="142016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="143366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="143483"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="145433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="146366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="148200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="148200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="154781"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="155266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="155283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="155432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="157621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="157662"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="164918"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="165135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="168461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="168871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="168932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="169128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="171307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="171512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="180179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="180384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="185487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="186179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="188769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="189076"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="190769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="190974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="195256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="195435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="201743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="202230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="205307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="205717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="212230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="212487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="215051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="215410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="216880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="217249"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="217305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="217320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="218305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="218611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="220157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="220555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="221035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="221473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="223070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="223140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="229122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="229456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="230157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="230403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="230894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="231070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="233456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="233456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="235035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="235649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="241736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="242017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="242771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="243456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="247754"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="247964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="248807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="248877"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="249859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="249859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="253473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="253596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="254561"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="254596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="258649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="258842"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="265000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="265333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="274578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="274684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="276052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="276982"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="280614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="281070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="281105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="282035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="284578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="284649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="286122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="286614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="286964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="287491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="289333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="289421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="293666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="293929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="295157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="295754"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="297912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="298789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="298807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="298912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="299912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="300421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="301947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="302649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="309614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="309666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="313087"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="313561"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="314070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="314210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="314385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="315070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="319263"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ZinaBudilova" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@dig1967m" TIER_ID="@dig1967m-gestures"/>
+    <TIER ANNOTATOR="ZinaBudilova" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@gkk1963m" TIER_ID="@gkk1963m-gestures"/>
+    <TIER ANNOTATOR="ZinaBudilova" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dig1967m" TIER_ID="@dig1967m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>рядом с Путиным находится немало людей здравомыслящих которые имеют большие деньги и эти деньги под угрозой сегодня</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>заговор может быть даже против фюрера был заговор</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>деньги и исполнители</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>всё есть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>почва?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>своя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>всё рушится</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>угу / угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>агентурная сеть какая</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>да-да-да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>Штайнмаер</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>или Пэн</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>а вы как считаете?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts167">
+                <ANNOTATION_VALUE>ровно двадцать лет назад</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>и гарантии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>то тогда завтра?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>или Северной Корее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts205">
+                <ANNOTATION_VALUE>так и Израиль может сделать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts211">
+                <ANNOTATION_VALUE>легализовать можно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
+                <ANNOTATION_VALUE>в другое измерение</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts233">
+                <ANNOTATION_VALUE>а куда деваться?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ZinaBudilova" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@gkk1963m" TIER_ID="@gkk1963m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>рядом с Путиным не находится никто / Путин один</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>значит вот это очень важно понимать / вы сказали рядом / эти люди не рядом</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>дело в том что / времена / как бы / однопартийной диктатуры прошли</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>сегодняшняя / путинская Россия это / диктатура единоличная</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>[нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>секундочку / может быть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>но это уже опять другая история</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>для заговора требуются</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>ну скажем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>аа...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>вы не сказали главное / для заговора требуется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>решительные люди</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>для заговора требуется фон Штауффенберг / для заговора требуются кадровые офицеры Рейха</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>кто? / посмотрите на этих людей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>жалкие / трусливые люди / которые обязаны Путину между прочим всем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>э э / генералы Рейха / или по... или офицеры Рейха не были обязаны / Гитлеру / то есть они к... / у них была своя история</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>не говоря о том что многие из них были аристократами</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>какая история у этих?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>откуда они взялись все эти люди?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>они / видно / в одиннадцатом году у них был шанс</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>они боятся / как... не важно как они называются там / либералы / силовики</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>в принципе это / ээ / люди / для которых страх перемен / понятно / что Путин уходит / это как позвоночник вы... вытаскивают</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>значит / естественно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>начинается как бы... / ну какой-то хаос</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>для них этот хаос по-прежнему / даже сегодня</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>страшнее / чем / чем сохранение Путина</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>потому что пока они ещё до конца / не поняли что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>это навсегда</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>то есть вот / запад не сумел</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>протелеграфировать чёткий мессидж / всем этим так называемым либералам / силовикам / всем этим там / Кудриным Шойгу Сечиным и прочим</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>ребята / Гаага / Нюрнберг / как хотите / буде... / будет и / санкции никто не отменит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>а они все равно ждут отмены санкций / они всё равно считают что / путинское лобби / миллиарды долларов которые они вкладывали в покупку политиков бизнесменов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>скажется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>ультраправые в Европе там / там уже Саркози начал вылезать / то есть это / здесь / в Германии там / ну что там</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>министр иностранных дел это шрёдеровский человек</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>то есть как бы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>они всё равно считают что / в Италии Берлускони никуда же тоже не делся</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>путинская</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>клинт... / к-к клинт клинт к-к-ээ-мм / как бы клиентура по всему миру его партнеры / они считают что вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>додавят</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>в марте там подойдет время / никаких никакого не будет консенсуса / они всё равно считают что пронесет пока ещё</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>я считаю что не пронесёт</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>мне кажется что на самом деле / ээ / Запад определённую точку вот невозврата прошёл уже</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>а / Путин стратегическая проблема</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>вот они это уже поняли для себя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>п... проблема в том что / для них</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>так / комфортабельно и хорошо жить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>ну в / ну понятно там / Аль-Каида там / Файсис / но признать то что Россия это фэйлер / это неудача / что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>никаких не может быть зде... там / перезагрузки никакой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>что / сегодняшняя Россия это / не п... не с... не союзник / не партнер / это даже не нейтральная сила / а это / реально враг</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>это на самом деле опасный враг / во главе с маньяком / у которого ядерная кнопка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>признание этого означает что надо менять всю политику</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>они подходят к этому потому что / тут в... в голове / бюрократа / что он сидит там / в Брюсселе / что в Вашингтоне / у него как бы вот две такие вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ээ / аа / аа уф... / аа... / две проблемы они сталкиваются</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>он очень не хочет конфронтации с Путиным</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>вот вот это вот это это ужасно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>но он ещё больше боится хаоса который вызовет путинская перекройка границ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>и вот щас / вот эта угроза / которую Путин несёт мировому порядку / она / создаёт</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>она создаёт э... / мне кажется как / она перевешивает сейчас</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>ведь ээ / скажем / одна из / ээ / один из до... договоров на которых осно... основывалась / как бы вот ну / э</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>территориальная целостность Украины это Будапештский меморандум</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>это пятое декабря девяносто четвертого года</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>двадцать лет ээ назад</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>вот / ээ / ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>ну естественно / сегодня / сегодня пятое да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>вот / аа э / а этот документ предусматривал отказ Украины от / ядерного оружия</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>и гарантии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>но понятно что там не было военных гарантий</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>но тем не менее / подпись</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>премьер-министра Великобритании / Джона Мейджора / подпись президента США / Билла Клинтона / ну... / про подпись / Ельцина мы уже не упоминаем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>они стояли</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts185">
+                <ANNOTATION_VALUE>и / если этот документ / не имеет / как бы / никакую ценность становится бумажкой которую можно порвать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>тогда завтра</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>а / что вы будете рассказать иранским муллам? / что кто-то им даёт какие-то гарантии?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>ну Се... / это мы в данном случае говорим про / уже не столько Северную / сколько про Южную Корею</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>будет Южная Корея рассчитывать на американскую помощь? / или / всё-таки / может быть лучше / о себе позаботиться?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>а... / долго Япония будет терпеть китайскую гегемонию и / полагаться на / полагаться на... / ээ... мм... / американский / на / там / мм / военную мощь</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>или / всё-таки...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts203">
+                <ANNOTATION_VALUE>по... потратить несколько недель / я думаю больше им не нужно / для того чтобы сделать своё ядерное оружие</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>и / так / у Израиля / как бы есть уже бомба / мы все это понимаем это как бы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts209">
+                <ANNOTATION_VALUE>вопрос в том что / это всё / значит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>это всё / так / ну а там дальше уже</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>Иран / Саудовская Аравия купит в Пакистане / там Турция / я думаю / тоже там не отстанется в стороне</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>то есть / мир</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>перейдет совершенно в другую / а / в другую / как бы паради...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>да / в другое измерение</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
+                <ANNOTATION_VALUE>вот / этот кошмар</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
+                <ANNOTATION_VALUE>сегодня / в голове вашингтонского или б... / и и или брюссельского ээ... / дипломата / аа... / бюрократа / начинает перевешивать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>потому что / конечно / с...связываться с Путиным не хочется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
+                <ANNOTATION_VALUE>но</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts234">
+                <ANNOTATION_VALUE>по крайней мере / но по крайней мере Путин это вот проблема / да / а там она просто расползётся по всему миру</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ZinaBudilova" LINGUISTIC_TYPE_REF="stress" PARENT_REF="@dig1967m-text" PARTICIPANT="@dig1967m" TIER_ID="@dig1967m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ря'дом с Пу'тиным нахо'дится нема'ло люде'й здраво'мыслящих кото'рые име'ют больши'е де'ньги и э'ти де'ньги под угро'зой сего'дня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>за'говор мо'жет быть да'же про'тив фю'рера был за'говор</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>де'ньги и исполните'ли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>всё есть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>по'чва?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>своя'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>угу'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>всё ру'шится</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>угу' / угу'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>агенту'рная сеть кака'я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>да-да-да'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Шта'йнмаер</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>и'ли Пэн</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>а вы как счита'ете?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>угу'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>угу'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>ро'вно два'дцать лет наза'д</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>и гара'нтии</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>то тогда' за'втра?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>и'ли Се'верной Коре'е</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>так и Изра'иль мо'жет сде'лать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>легализова'ть мо'жно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>в друго'е измере'ние</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>а куда' дева'ться?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ZinaBudilova" LINGUISTIC_TYPE_REF="stress" PARENT_REF="@gkk1963m-text" PARTICIPANT="@gkk1963m" TIER_ID="@gkk1963m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ря'дом с Пу'тиным не нахо'дится никто' / Пу'тин оди'н</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>зна'чит вот э'то о'чень ва'жно понима'ть / вы сказа'ли ря'дом / э'ти лю'ди не ря'дом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>де'ло в том что / времена' / как бы / однопарти'йной диктату'ры прошли'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>сего'дняшняя / пути'нская Росси'я э'то / диктату'ра единоли'чная</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>[нрзб]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>секу'ндочку / мо'жет быть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>но э'то уже' опя'ть друга'я исто'рия</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>для за'говора тре'буются</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>ну ска'жем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>а'а...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>вы не сказа'ли гла'вное / для за'говора тре'буется</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>реши'тельные лю'ди</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>для за'говора тре'буется фон Штауффе'нберг / для за'говора тре'буются ка'дровые офице'ры Ре'йха</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>кто? / посмотри'те на э'тих люде'й</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>жа'лкие / трусли'вые лю'ди / кото'рые обя'заны Пу'тину ме'жду про'чим всем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>э э / генера'лы Ре'йха / и'ли по... и'ли офице'ры Ре'йха не бы'ли обя'заны / Ги'тлеру / то есть они' к... / у них была' своя' исто'рия</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>не говоря' о том что мно'гие из них бы'ли аристокра'тами</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>кака'я исто'рия у э'тих?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>отку'да они' взяли'сь все э'ти лю'ди?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>они' / ви'дно / в оди'ннадцатом году' у них был шанс</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>они' боя'тся / как... не ва'жно как они' называ'ются там / либера'лы / силовики'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>в при'нципе э'то / э'э / лю'ди / для кото'рых страх переме'н / поня'тно / что Пу'тин ухо'дит / э'то как позвоно'чник вы... выта'скивают</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>зна'чит / есте'ственно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>начина'ется как бы... / ну како'й-то ха'ос</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>для них э'тот ха'ос по-пре'жнему / да'же сего'дня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>страшне'е / чем / чем сохране'ние Пу'тина</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>потому' что пока' они' ещё' до конца' / не по'няли что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>э'то навсегда'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>то есть вот / за'пад не суме'л</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>протелеграфи'ровать чё'ткий месси'дж / всем э'тим так называ'емым либера'лам / силови'кам / всем э'тим там / Ку'дриным Шо'йгу Се'чиным и про'чим</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>ребя'та / Гаага' / Ню'рнберг / как хоти'те / бу'де... / бу'дет и / са'нкции никто' не отмени'т</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>а они' все равно' ждут отме'ны са'нкций / они' всё равно' счита'ют что / пути'нское ло'бби / миллиа'рды до'лларов кото'рые они' вкла'дывали в поку'пку поли'тиков бизнесме'нов</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>ска'жется</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>ультраправы'е в Евро'пе там / там уже' Сарко'зи на'чал вылеза'ть / то есть э'то / здесь / в Герма'нии там / ну что там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>мини'стр иностра'нных дел э'то шрё'деровский челове'к</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>то есть как бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>они' всё равно' счита'ют что / в Ита'лии Берлуско'ни никуда' же то'же не де'лся</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>пути'нская</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>клинт... / к-к клинт клинт к-к-ээ'-мм / как бы клиенту'ра по всему' ми'ру его' па'ртнеры / они' счита'ют что вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>дода'вят</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>в ма'рте там подо'йдет вре'мя / никаки'х никако'го не бу'дет консе'нсуса / они' всё равно' счита'ют что пронесе'т пока' ещё'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>я счита'ю что не пронесё'т</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>мне ка'жется что на са'мом де'ле / э'э / За'пад определё'нную то'чку вот невозвра'та прошё'л уже'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>а / Пу'тин стратеги'ческая пробле'ма</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>вот они' э'то уже' по'няли для себя'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>п... пробле'ма в том что / для них</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>так / комфорта'бельно и хорошо' жить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>ну в / ну поня'тно там / Аль-Ка'ида там / Фа'йсис / но призна'ть то что Росси'я э'то фэ'йлер / э'то неуда'ча / что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>никаки'х не мо'жет быть зде... там / перезагру'зки никако'й</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>что / сего'дняшняя Росси'я э'то / не п... не с... не сою'зник / не па'ртнер / э'то да'же не нейтра'льная си'ла / а э'то / реа'льно враг</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>э'то на са'мом де'ле опа'сный враг / во главе' с маньяко'м / у кото'рого я'дерная кно'пка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>призна'ние э'того означа'ет что на'до меня'ть всю поли'тику</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>они' подхо'дят к э'тому потому' что / тут в... в голове' / бюрокра'та / что он сиди'т там / в Брюссе'ле / что в Ва'шингтоне / у него' как бы вот две таки'е вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>э'э / а'а / а'а уф... / а'а... / две пробле'мы они' ста'лкиваются</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>он о'чень не хо'чет конфронта'ции с Пу'тиным</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>вот вот э'то вот э'то э'то ужа'сно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>но он ещё' бо'льше бои'тся ха'оса кото'рый вы'зовет пути'нская перекро'йка грани'ц</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>и вот щас / вот э'та угро'за / кото'рую Пу'тин несё'т мирово'му поря'дку / она' / создаё'т</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>она' создаё'т э... / мне ка'жется как / она' переве'шивает сейча'с</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>ведь э'э / ска'жем / одна' из / э'э / оди'н из до... догово'ров на кото'рых осно'... осно'вывалась / как бы вот ну / э</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>территориа'льная це'лостность Украи'ны э'то Будапе'штский мемора'ндум</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>э'то пя'тое декабря' девяно'сто четверто'го го'да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>два'дцать лет э'э наза'д</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>вот / э'э / э'э</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>ну есте'ственно / сего'дня / сего'дня пя'тое да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>вот / а'а э / а э'тот докуме'нт предусма'тривал отка'з Украи'ны от / я'дерного ору'жия</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>и гара'нтии</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>но поня'тно что там не бы'ло вое'нных гара'нтий</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>но тем не ме'нее / по'дпись</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>премьер-мини'стра Великобрита'нии / Джо'на Мейджо'ра / по'дпись президе'нта США / Би'лла Кли'нтона / ну... / про по'дпись / Е'льцина мы уже' не упомина'ем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>они' стоя'ли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>и / е'сли э'тот докуме'нт / не име'ет / как бы / никаку'ю це'нность стано'вится бума'жкой кото'рую мо'жно порва'ть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>тогда' за'втра</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>а / что вы бу'дете рассказа'ть ира'нским му'ллам? / что кто'-то им даё'т каки'е-то гара'нтии?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>ну Се... / э'то мы в да'нном слу'чае говори'м про / уже' не сто'лько Се'верную / ско'лько про Ю'жную Коре'ю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>бу'дет Ю'жная Коре'я рассчи'тывать на америка'нскую по'мощь? / и'ли / всё'-таки / мо'жет быть лу'чше / о себе' позабо'титься?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>а... / до'лго Япо'ния бу'дет терпе'ть кита'йскую гегемо'нию и / полага'ться на / полага'ться на... / э'э... мм... / америка'нский / на / там / мм / вое'нную мощь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>и'ли / всё'-таки...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>по... потра'тить не'сколько неде'ль / я ду'маю бо'льше им не ну'жно / для того' что'бы сде'лать своё' я'дерное ору'жие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>и / так / у Изра'иля / как бы есть уже' бо'мба / мы все э'то понима'ем э'то как бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>вопро'с в том что / э'то всё / зна'чит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>э'то всё / так / ну а там да'льше уже'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>Ира'н / Са'удовская Ара'вия ку'пит в Пакиста'не / там Ту'рция / я ду'маю / то'же там не отста'нется в стороне'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>то есть / мир</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>пере'йдет соверше'нно в другу'ю / а / в другу'ю / как бы паради'...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>да / в друго'е измере'ние</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>вот / э'тот кошма'р</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>сего'дня / в голове' вашингто'нского и'ли б... / и и и'ли брюссе'льского э'э... / диплома'та / а'а... / бюрокра'та / начина'ет переве'шивать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>потому' что / коне'чно / с...свя'зываться с Пу'тиным не хо'чется</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>но</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>по кра'йней ме'ре / но по кра'йней ме'ре Пу'тин э'то вот пробле'ма / да / а там она' про'сто расползё'тся по всему' ми'ру</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="stress" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d0ac9f43-6ccc-4efe-90a9-43acb7f02eab">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6972b251-8aef-4c08-8140-3467faefa921">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d30899ed-8816-45a6-9460-eb3d3b53089a">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0cf10492-bc00-4fdc-8b68-f603b45ed1c0">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8106335f-6901-4a1d-a0d5-16faf2152eae">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1be0c0dd-fc1a-42e4-abb2-8d96836eada0">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d81a2c4c-cba3-475a-8800-715257f205a6">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_50b9e3ad-0917-41ec-9eb0-1b2616424b8e">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2e3119ab-0389-4920-b952-bc12567e7e4a">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c1d853c-49c5-49ae-80ca-c4c6b2f22345">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fc77e194-3cb3-4ba6-85e6-8e3b97eaa2f2">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a13c9119-cb6f-451c-a60d-84785eca179b">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_266090f3-4428-47b5-aedb-57a89ad573be">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c7e17919-bd9d-4273-a4b0-6fadb226555e">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2762cb03-888b-4c65-b593-4ebd0f4fe6dd">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a767cf17-890c-4310-b7fe-9f4fd099f811">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7559ce2e-9a5c-495e-b1ec-9c25c1a25158">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
